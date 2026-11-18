@@ -1,0 +1,15 @@
+node_modules
+dist
+*.log
+*.tgz
+
+# Vite and local env files tend to hold secrets
+.env
+.env.*
+
+# Editor and OS files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.sw?

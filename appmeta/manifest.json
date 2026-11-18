@@ -1,0 +1,10 @@
+{
+  "format_version": 1,
+  "id": "app.user.dualclock",
+  "name": "Dual Clock",
+  "version": "1.0.0",
+  "api_version": "27.0.0",
+  "description": "UTC and local time on the front display.",
+  "author": "Connor Haft",
+  "heap_size_kib": 128
+}
